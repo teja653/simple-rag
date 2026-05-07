@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+sentence-transformers
+streamlit
+requests
+pymupdf
+numpy
+certifi
